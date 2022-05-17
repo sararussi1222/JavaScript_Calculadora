@@ -1,0 +1,144 @@
+* {
+    border-radius: 4%;
+    text-align: center;
+    background-color: #aedddd;
+}
+
+#DP {
+    background-color: #f5fac1;
+    width: 13em;
+    height: 2em;
+    font-size: 1em;
+}
+
+#tabla {
+    background-color: #000000;
+    border-style: all;
+    font-size: 1em;
+}
+
+td {
+    background-color: #ffbfb0;
+    height: 1em;
+    font-size: 1em;
+    width: 25%
+}
+
+tr {
+    background-color: #7bc3;
+    height: 3em;
+    font-size: 1em;
+}
+
+#eliminar {
+    background-color: #ffda89;
+}
+
+#num1,
+#num2,
+#num3,
+#num4,
+#num5,
+#num6,
+#num7,
+#num8,
+#num9,
+#num0 {
+    background-color: #c7f7f7
+}
+
+#suma,
+#Punto,
+#Resta,
+#Multi,
+#Dividir,
+#Porcentaje,
+#ParentecisI,
+#ParentecisD,
+#Igual {
+    background-color: #84b6f4;
+}
+
+#suma:hover {
+    background-color: chartreuse;
+}
+
+#Resta:hover {
+    background-color: chartreuse;
+}
+
+#Multi:hover {
+    background-color: chartreuse;
+}
+
+#Dividir:hover {
+    background-color: chartreuse;
+}
+
+#num8:hover {
+    background-color: chartreuse;
+}
+
+#num7:hover {
+    background-color: chartreuse;
+}
+
+#num9:hover {
+    background-color: chartreuse;
+}
+
+#porcentaje:hover {
+    background-color: chartreuse;
+}
+
+#num4:hover {
+    background-color: chartreuse;
+}
+
+#num5:hover {
+    background-color: chartreuse;
+}
+
+#num6:hover {
+    background-color: chartreuse;
+}
+
+#Raiz:hover {
+    background-color: chartreuse;
+}
+
+#num1:hover {
+    background-color: chartreuse;
+}
+
+#num2:hover {
+    background-color: chartreuse;
+}
+
+#num3:hover {
+    background-color: chartreuse;
+}
+
+#potencia:hover {
+    background-color: chartreuse;
+}
+
+#num0:hover {
+    background-color: chartreuse;
+}
+
+#Punto:hover {
+    background-color: chartreuse;
+}
+
+#igual:hover {
+    background-color: chartreuse;
+}
+
+#Igual:hover {
+    background-color: chartreuse;
+}
+
+#eliminar:hover {
+    background-color: chartreuse;
+}
